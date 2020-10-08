@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: black;
+    background-image: linear-gradient(gray,black);
     color: white;
 }
 
@@ -160,3 +160,7 @@ img {
         color: black;
         border-radius: 50%;
     }
+    #grad1 {
+        height: 200px;
+        
+      }

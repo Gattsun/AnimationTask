@@ -83,7 +83,7 @@ img {
 @keyframes moveInRight {
     0% {
         opacity: 0;
-        transform: translateX(100px)
+        transform: translateY(-100px)
     }
 
     80% {
@@ -126,7 +126,7 @@ img {
     @keyframes moveInRight3 {
         0% {
             opacity: 0;
-            transform: translateX(100px)
+            transform: translateY(100px)
         }
     
         80% {
